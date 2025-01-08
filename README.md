@@ -1,6 +1,6 @@
 # Turtle Golf
 **Game Description**  
-*Puzzle | Physics-based | Water Interaction*
+*OCEAN Theme | Limitation: As Small as Possible | May 24-27 2024*
 
 ## Overview  
 Turtle Golf is a physics-based puzzle game where players control a turtle navigating through puddles to drop a rock and create ripples in the water. The goal is to solve puzzles by manipulating the water level and triggering ripples, while carefully controlling the turtle's movements and interactions with different environmental elements like puddles and rocks.
